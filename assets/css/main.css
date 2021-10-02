@@ -216,27 +216,27 @@
 }
 
 .des__containt-local-one--Europe {
-    background-image: url(/assets/img/destination-9.jpg);
+    background-image: url(../img/destination-9.jpg);
 }
 
 .des__containt-local-one--Thailandia {
-    background-image: url(/assets/img/1.jpg);
+    background-image: url(../img/1.jpg);
 }
 
 .des__containt-local-one--Asia {
-    background-image: url(/assets/img/2.jpg);
+    background-image: url(../img/2.jpg);
 }
 
 .des__containt-local-one--Italy {
-    background-image: url(/assets/img/3.jpg);
+    background-image: url(../img/3.jpg);
 }
 
 .des__containt-local-one--Netherlands {
-    background-image: url(/assets/img/4.jpg);
+    background-image: url(../img/4.jpg);
 }
 
 .des__containt-local-one--United {
-    background-image: url(/assets/img/5.jpg);
+    background-image: url(../img/5.jpg);
 }   
 
 .des__containt-local-one::after {
@@ -339,7 +339,7 @@
     margin-top: 78px;
     background-position: center;
     background-size: 100%;
-    background-image: url(/assets/img/8.jpg);
+    background-image: url(../img/8.jpg);
     align-items: center;
 }
 
@@ -435,7 +435,7 @@
     background-repeat: no-repeat;
     background-size: 100%;
     height: 410px;
-    background-image: url(/assets/img/6.jpg);
+    background-image: url(../img/6.jpg);
     background-position: center center;
 }
 
@@ -543,14 +543,14 @@
 }
 
 .find__containt--city {
-    background-image: url(/assets/img/7.jpg);
+    background-image: url(../img/7.jpg);
     background-image: url(../img/7.jpg);
 
 }
 
 
 .find__containt--nature {
-    background-image: url(/assets/img/9.jpg);
+    background-image: url(../img/9.jpg);
 }
 
 .find__containt-option {
@@ -784,7 +784,7 @@
 /* footer */
 .footer {
     height: 630px;
-    background-image: url(/assets/img/10.jpg);
+    background-image: url(../img/10.jpg);
     background-position: center;
     background-size: cover;
 }
