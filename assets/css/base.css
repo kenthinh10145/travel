@@ -1,0 +1,37 @@
+:root {
+    --white-color: #fff;
+    --text-color: #a3a3a3;
+    --background-color: rgba(85, 85, 85, 0.5);
+    --blue-color: #14b9d5;
+    --brown-color: #555;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+.content {
+    width: 1170px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--blue-color);
+    border: 1px solid var(--white-color);
+    background-color: var(--white-color);
+    margin-top: 25px;
+    padding: 7px 20px;
+    font-size: 1.5rem;
+    border-radius: 50px;
+}
+
